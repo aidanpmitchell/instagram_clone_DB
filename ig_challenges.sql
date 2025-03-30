@@ -101,17 +101,3 @@ JOIN users u
 ON u.id = l.user_id
 GROUP BY l.user_id
 HAVING Likes = (SELECT COUNT(*) FROM photos);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
