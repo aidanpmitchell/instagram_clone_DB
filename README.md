@@ -1,3 +1,3 @@
 # Instagram Clone Database
 
-!()[IG_Database.jpeg]
+![](IG_Database.jpeg)
