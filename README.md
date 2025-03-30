@@ -86,4 +86,4 @@ CREATE TABLE photo_tags (
 ## Phase 3: Populating the Database with Mock Data
 Mock data was generated to populate the database, reflecting a realistic set of data for testing and analysis. The data insertion was performed via SQL scripts. \
 Do to the large size of the inserts, scripts can be seen within the attached file: \
-[Clone Data](ig_clone_data.sql)
+[Mock Data](ig_clone_data.sql)
